@@ -7,7 +7,7 @@
 ## Prerequisites (For those who are not only interested in production)
 - A firebase account
 - A twillo acount
-- Python 3 and following python libraries:
+- Python 3 and the following python libraries:
     - flask
     - twilio
     - secrets
