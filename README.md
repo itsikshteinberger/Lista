@@ -44,7 +44,7 @@ Although the use of chatbot is quite intuitive - but in any case I find it right
 ![](https://github.com/itsikshteinberger/Lista/blob/master/Lista/Media/screen2.png)<br/><br/>
 * If you want to exit from a list you should know that in case that you are the owner of the list - the entire list will be deleted.
 * To see what else you can do - type 'help'.
-* The bot does not notice the difference between lowercase and uppercase letters.
+* For convenience ,the bot does not notice the difference between lowercase and uppercase letters.
 
 <br/>
 
