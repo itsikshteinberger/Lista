@@ -14,7 +14,7 @@
     - firebase_admin
 
 ## Installation
-A production version will be out soon, however, if you still feel like playing with the code feel free to follow the steps below:<br/><br/>
+A production version will be out soon, however, if you still feel like playing with the code feel free to follow the steps below:<br/>
 * clone the code
 ```bash
 git clone https://github.com/itsikshteinberger/Lista
