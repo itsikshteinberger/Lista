@@ -8,7 +8,7 @@ class DataBase:
     def __init__(self, number):
         cred = credentials.Certificate('lista-firebase.json')
         firebase_admin.initialize_app(cred, {
-            'databaseURL': 'https://lista-5765a-default-rtdb.firebaseio.com'
+            'databaseURL': 'Entrer your datavase URL'
         })
 
         self.ref = db.reference("/")
